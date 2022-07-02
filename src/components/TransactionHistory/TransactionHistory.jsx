@@ -1,7 +1,7 @@
 // import PropTypes from 'prop-types';
 
-import { TransactionHistoryHeader } from 'components/TransactionHistoryHeader/TransactionHistoryHeader';
-import { TransactionHistoryBody } from 'components/TransactionHistoryBody/TransactionHistoryBody';
+import { TransactionHistoryHeader } from 'components/TransactionHistory/TransactionHistoryHeader/TransactionHistoryHeader';
+import { TransactionHistoryBody } from 'components/TransactionHistory/TransactionHistoryBody/TransactionHistoryBody';
 import css from './TransactionHistory.module.css'
 
 export const TransactionHistory = ({ transactions }) => {

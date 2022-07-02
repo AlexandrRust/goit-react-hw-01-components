@@ -25,6 +25,14 @@
     border-radius: 50%;
 }
 
+.online {
+    background-color: green;
+}
+
+.ofline {
+    background-color: red;
+}
+
 .avatar {
     margin-right: 30px;
 }
